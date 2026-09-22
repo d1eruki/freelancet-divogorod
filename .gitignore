@@ -1,0 +1,5 @@
+# JetBrains IDEs (WebStorm, IntelliJ IDEA, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
